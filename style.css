@@ -1,0 +1,167 @@
+body{
+    background-color:#35363B;
+  }
+          .main-div {
+              position:fixed;
+              border: 3px groove rgb(100, 94, 94);
+              background-color: linear-gradient(135deg, blue , #38393F);
+              border-radius: 15px;
+              height: 690px;
+              width: 370px;
+              margin:0;
+              padding:0;
+          }
+  
+          h2 {
+              text-align: center;
+              color: black;
+              font-size: 45px;
+              margin-top: 40px;
+              font-weight:300;
+  
+          }
+          footer{
+            margin-left:100px;
+            color:white;
+            margin-top:80px;
+          }
+          img {
+              margin-left: 270px;
+              margin-top: -250px;
+              position:relative;
+              bottom:30px;
+          }
+  
+          .bt {
+              margin-left: 70px;
+              width: 70px;
+              height: 30px;
+              background-color: rgb(44, 202, 44);
+              color: white;
+              cursor: pointer;
+              position:relative;
+              bottom:20px;
+          }
+  
+          .btn {
+              margin-left: 75px;
+              width: 70px;
+              height: 30px;
+              background-color: rgb(249, 60, 60);
+              color: white;
+              cursor: pointer;
+              position:relative;
+              bottom:20px;
+          }
+  
+          h3 {
+              font-size: 15px;
+              border: 1px groove rgb(28, 25, 25);
+              background-color:#40414A;
+              border-radius: 5px;
+              padding: 10px;
+              text-align: center;
+              width: 160px;
+              color: white;
+              margin-left: 100px;
+              position:relative;
+              bottom:20px;
+          }
+  
+          #demo {
+              color: white;
+              margin-left: 75px;
+              position:relative;
+              bottom:20px;
+          }
+  
+          #time {
+              color: white;
+              margin-left: 220px;
+              position: relative;
+              bottom: 8px;
+              position: relative;
+              bottom:20px;
+          }
+          
+          h4 {
+              font-size: 15px;
+              border: 1px groove rgb(28, 25, 25);
+              background-color: #40414A;
+              border-radius: 5px;
+              padding: 8px;
+              text-align: center;
+              width: 160px;
+              color: white;
+              margin-left: 100px;
+              position:relative;
+              bottom:10px;
+          }
+  
+          h5 {
+              text-align: center;
+              font-size: 15px;
+              border: 1px groove rgb(28,25,25);
+              background-color:#40414A;
+              border-radius: 5px;
+              padding: 8px;
+              text-align: center;
+              width: 140px;
+              color: white;
+              margin-left: 110px;
+              position:relative;
+              bottom:15px;
+          }
+  
+          .btn1 {
+              margin-left: 150px;
+              width: 70px;
+              height: 30px;
+              background-color:#248EDF;
+              color: white;
+              cursor: pointer;
+              position:relative;
+              bottom:16px;
+          }
+  
+          #date {
+              margin-left: 40px;
+              color: white;
+              position:relative;
+              bottom:5px;
+          }
+  
+          #btn2 {
+              color:white;
+              margin-left: 100px;
+              display: inline-block;
+              cursor: pointer;
+              width: 70px;
+              height: 30px;
+              position: relative;
+              bottom:20px;
+              background-color: rgb(44,202,44); }
+  
+          #btn3 {
+              margin-left: 200px;
+              position: relative;
+              bottom: 50px;
+              cursor: pointer;
+              color: white;
+              width: 70px;
+              height: 30px;
+              background-color: rgb(249,60,60);
+          }
+  
+          #timer {
+              text-align: center;
+              color:black;
+              font-size: 25px;
+              margin-top: -20px;
+              border: 2px groove black;
+              border-radius: 20%;
+              background-color:#FFD93D;
+              width: 100px;
+              margin-left: 130px;
+              font-weight:bold;
+          }
